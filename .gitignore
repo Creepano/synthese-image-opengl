@@ -1,0 +1,21 @@
+# Binaires et fichiers objets compilés
+araignee
+*.o
+*.out
+*.exe
+*.app
+
+# Dossiers de build et fichiers IDE
+bin/
+obj/
+build/
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# Fichiers système / métadonnées Windows & macOS
+*Zone.Identifier
+.DS_Store
+Thumbs.db
